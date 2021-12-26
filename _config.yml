@@ -1,1 +1,8 @@
-theme: jekyll-theme-tactile
+defaults:
+  -
+  scope:
+    path: "" # an empty string here means all files in the project
+    type: "pages"
+  values:
+    theme: jekyll-theme-tactile
+    #     layout: "default"
