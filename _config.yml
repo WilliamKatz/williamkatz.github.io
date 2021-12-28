@@ -21,7 +21,8 @@
 title: Billy Katz
 email: wfk.391@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am the game designer intersted in cooperative multiplayer and simple strategic mobile games. 
+  I am interested in building meaningful games that help players express themselves and connect with the world around them. This portfolio showcases my ability to manage and ship projects, collaborate effectively with teammates across disciplines, and my general curiousity in game design.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
