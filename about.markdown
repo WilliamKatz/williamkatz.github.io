@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /about
+title: ""
 redirect_from:
   - /
 ---
