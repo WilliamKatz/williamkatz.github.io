@@ -18,7 +18,7 @@ I am interested in building meaningful games that help players express themselve
 <!-- [Meowsterminds](./meowsterminds) is a cooperative party game where 3-6 players control a criminal crew of cats to pull off elaborate heists. -->
 
 ## Game Jams
-In, [Mychorriza](https://chthoniccrow.itch.io/mycelia){:target="_blank"} you grow a fungal network, share resources and cull deadweight in an attempt to save the Mother Tree.
+In [Mychorriza](https://chthoniccrow.itch.io/mycelia){:target="_blank"}, players grow a fungal network, share resources and cull deadweight to help get the ailing Mother Tree through a blistering summer.
 
-[Bombs Away](https://babygoatgames.itch.io/bombs-away){:target="_blank"} is Worms meets Treasure Island. Use bombs to blow up the ground and uncover treasures. Trade that loot for bigger bombs and see if you can find Black Beard's coffers.
+[Bombs Away](https://babygoatgames.itch.io/bombs-away){:target="_blank"} is like Worms meets Treasure Island. Use bombs to blow up the ground and uncover treasures. Trade that loot for bigger bombs and see if you can find Black Beard's coffers.
 
