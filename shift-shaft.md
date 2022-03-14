@@ -8,6 +8,7 @@ release-date: TBD
 <style>
 img {
     padding-left: 25px;
+    padding-right: 25px;
 }
 td, th {
    border: none!important;
@@ -23,9 +24,12 @@ Shift Shaft is strategic match-3 puzzle game that adds a mind-bending spin on a 
 Most attempts to escape end in failure- but that's okay. Everytime the player dies the Mineral Spirits whisk them back to Basecamp where they can upgrade their character and try again
 
 
-<img align="left" src="./../images/guano.png" width="270" height="341.5" alt="Image depicting the bat's attack"/> | <img align="left" src="./../images/basecamp.png" width="270" height="341.5" alt="Image depicting the bat's attack"/>
-
-
+<br>
+<p align="center">
+  <img alt="Light" src="./../images/guano.png" width="40%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="./../images/basecamp.png" width="40%">
+</p>
 
 
 
