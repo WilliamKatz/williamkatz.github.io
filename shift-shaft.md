@@ -4,29 +4,29 @@ title: "Shift Shaft"
 permalink: /shift-shaft/
 release-date: TBD
 ---
-## Shift Shaft is out now on the iOS Store
-[Available here.](https://apps.apple.com/us/app/shift-shaft/id1387207777)
 
-Shift Shaft is strategic match-3 puzzle game that adds a interesting spin on a classic genre.  In Shift Shaft, players can rotate the board; this simple mechanic creates endless complexity and makes Shift Shaft enjoyable for newcomers and veterans alike.  
+<style>
+img {
+    padding-left: 25px;
+}
+td, th {
+   border: none!important;
+}
 
-![Image depicting the player being highlighted on the board](./_images/this-is-you.png)
+</style>
 
-Players take control of a miner who must navigate through mineshaft to fight monsters, collect gems, and try to escape.  Most attempts end in failure, but that's okay, everytime the player dies the Mineral Spirits which them back to Basecamp where they can upgrade their character and try again.  Players unlock better and better upgrades over time that bolster their stats like health, dodge, and luck and increase the power of the items they can find in the mines.
+## [Shift Shaft is out now on the iOS Store](https://apps.apple.com/us/app/shift-shaft/id1387207777){:target="_blank"}
 
-![Image depicting the upgrades available at basecamp](./_images/basecamp.png)
+<img align="right" src="./../images/this-is-you.png" width="270" height="399" alt="Image depicting player in the board"/>
+Shift Shaft is strategic match-3 puzzle game that adds a mind-bending spin on a classic genre by allowing players to rotate the board.  This simple mechanic creates endless complexity and makes Shift Shaft enjoyable for newcomers and veterans alike. In addition to the rotation mechanic, players control a miner that is in the board itself and can only move by tapping away rocks and rotating the board. Players must move their avatar to the level exit while completing goals and dealing with monsters.  Each monster has a different attack pattern like Guano the Bat that attacks 2 squares diagonally.
 
-<p align="center">
-    <img src="./_images/basecamp.png" alt="Image depicting the upgrades available at basecamp">
-</p>
-
-A giant gem-eater spider awaits players on the 10th level.  Why does this spider hate you? That is a mystery, but there is only one way out of the mines at it is through the boss.  The boss is larger-than-life and puts an exclamation point on the game's finale
-
-![Image of the boss spider](./_images/noss.png)
-
-<p align="center">
-    <img src="./_images/noss.png" alt="Image of the boss spider">
-</p>
+Most attempts to escape end in failure- but that's okay. Everytime the player dies the Mineral Spirits whisk them back to Basecamp where they can upgrade their character and try again
 
 
-## Shift Shaft is out now on the iOS Store
-[Available here.](https://apps.apple.com/us/app/shift-shaft/id1387207777)
+<img align="left" src="./../images/guano.png" width="270" height="341.5" alt="Image depicting the bat's attack"/> | <img align="left" src="./../images/basecamp.png" width="270" height="341.5" alt="Image depicting the bat's attack"/>
+
+
+
+
+
+### [Shift Shaft is out now on the iOS Store](https://apps.apple.com/us/app/shift-shaft/id1387207777)
