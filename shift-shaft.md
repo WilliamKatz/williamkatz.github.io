@@ -10,7 +10,7 @@ h1, h2, h3 {
 }
 </style>
 ## ⚒️
-##  [Shift Shaft is out now on the iOS Store](https://apps.apple.com/us/app/shift-shaft/id1387207777){:target="_blank"}
+##  [Shift Shaft is out now on the iOS Store](https://linktr.ee/shiftshaft){:target="_blank"}
 ## ⚒️
 
 <p align="center">
@@ -41,7 +41,7 @@ The game culminates in a final intense boss fight.  Do you have what it takes to
 
 
 ## ⚒️
-##  [Shift Shaft is out now on the iOS Store](https://apps.apple.com/us/app/shift-shaft/id1387207777){:target="_blank"}
+##  [Shift Shaft is out now on the iOS Store](https://linktr.ee/shiftshaft){:target="_blank"}
 ## ⚒️
 
 
