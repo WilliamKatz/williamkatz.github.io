@@ -4,7 +4,14 @@ title: "Shift Shaft"
 permalink: /shift-shaft/
 release-date: TBD
 ---
-## [Shift Shaft is out now on the iOS Store](https://apps.apple.com/us/app/shift-shaft/id1387207777){:target="_blank"}
+<style>
+h1, h2, h3 {
+   text-align: center;
+}
+</style>
+## ⚒️
+##  [Shift Shaft is out now on the iOS Store](https://apps.apple.com/us/app/shift-shaft/id1387207777){:target="_blank"}
+## ⚒️
 
 <p align="center">
 <img src="./../images/this-is-you.png" width="270" height="399" alt="Image depicting player in the board"/>
@@ -33,4 +40,12 @@ The game culminates in a final intense boss fight.  Do you have what it takes to
 
 
 
-### [Shift Shaft is out now on the iOS Store](https://apps.apple.com/us/app/shift-shaft/id1387207777)
+## ⚒️
+##  [Shift Shaft is out now on the iOS Store](https://apps.apple.com/us/app/shift-shaft/id1387207777){:target="_blank"}
+## ⚒️
+
+
+### Gameplay Teaser
+
+
+[![Shift Shaft gameplay teaser video Thumbnail](./../images/press-kit/youtube-thumbnail-2.png)](https://youtu.be/79rk1NOY6t4 "Shift Shaft gameplay teaser video"){:target="_blank"}
