@@ -34,14 +34,15 @@ Most runs end in failure but that's okay beacuse the Mineral Spirits resurrect t
 
 The game culminates in an intense boss fight with a gem-eating spider.  This fight tests the player's skills, ingenuity and overall mastery of the game, do you have what it takes?
 
+# Articles
+
+[Touch Arcade Game Of the Week: Shift Shaft](https://toucharcade.com/2022/03/18/toucharcade-game-of-the-week-shift-shaft/){:target="_blank"}
 
 # Marketing Material
 
 ## Gameplay Teaser
 
-
 [![Shift Shaft gameplay teaser video Thumbnail](./../images/press-kit/youtube-thumbnail-2.png)](https://youtu.be/79rk1NOY6t4 "Shift Shaft gameplay teaser video"){:target="_blank"}
-
 
 
 ## Promotional Images
