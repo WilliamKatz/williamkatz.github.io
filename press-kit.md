@@ -36,7 +36,7 @@ The game culminates in an intense boss fight with a gem-eating spider.  This fig
 
 # Articles
 
-["Touch Arcade Game Of the Week: Shift Shaft"](https://toucharcade.com/2022/03/18/toucharcade-game-of-the-week-shift-shaft/){:target="_blank"}
+[Touch Arcade Game Of the Week: Shift Shaft](https://toucharcade.com/2022/03/18/toucharcade-game-of-the-week-shift-shaft/){:target="_blank"}
 - Jared Nelson
 
 ---
