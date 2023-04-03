@@ -5,7 +5,7 @@ title: Press Kit
 ---
 
 ## Developer
-Billy (William) Katz, he/him, attended NYU from 2009-2013 where he took classes at the NYU Game Center.  He worked profesionally as a software engineer in New York City and then Seattle, until 2021 when he left his job to pursue a career in game design.  After completing the University of Washington game design certificate program in 2021 he started working fulltime on Shift Shaft until its release in March 2022.  
+Billy (William) Katz, he/him, attended NYU from 2009-2013 where he took classes at the NYU Game Center.  He worked profesionally as a software engineer in New York City and then Seattle, until 2021 when he quit his job to pursue a career in game design.  After completing the University of Washington game design certificate program in 2021 he started working fulltime on Shift Shaft until its release in March 2022.  
 
 Recently, he started working on an unannounced project at Hourglass Escapes, an award winning escape room company located in Seattle. In his free time, Billy likes to cook and plays ultimate frisbee where he won the National Championsips in 2019.  
 
