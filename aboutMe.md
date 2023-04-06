@@ -52,7 +52,7 @@ Then I am probably cooking dinner, clamming at a local beach, or hiking with fri
 
 <div class="large-empty-div">&nbsp;</div>
 
-### If I were Stranded on a desert island and could bring 1 book, 1 movie, 1 album, what would they be?
+### If I were stranded on a desert island and could bring 1 book, 1 movie, 1 album, what would they be?
 **Ancillary Justice**.  I really love how Ann Lecke writes about gender and I love the idea of an AI holding a grudge forever.
 
 
