@@ -38,7 +38,7 @@ redirect_from:
   </head>
 
 
-## Hi, my name is Billy Katz and I am a game designer. 
+## Hi, my name is Billy Katz and I am a game developer. 
 
 
 <div style="display:flex; align-items: center;">
