@@ -18,7 +18,7 @@ h1, h2, h3 {
 <img src="./../images/gameplay-animated.gif" width="400" height="867" alt="Image depicting player in the board"/>
 </p>
 
-.  This simple mechanic creates endless complexity and makes Shift Shaft enjoyable for newcomers and veterans alike. In addition to the rotation mechanic, players control a miner that is in the board itself and can only move by tapping away rocks and rotating the board. Players must move their avatar to the level exit while completing goals and dealing with monsters.  Each monster has a different attack pattern like Guano the Bat that attacks 2 squares diagonally.
+Shift Shaft is a strategic match-3 puzzle game that adds a mind-bending spin on a classic genre by allowing players to rotate the board.  This simple mechanic creates endless complexity and makes Shift Shaft enjoyable for newcomers and veterans alike. In addition to the rotation mechanic, players control a miner that is in the board itself and can only move by tapping away rocks and rotating the board. Players must move their avatar to the level exit while completing goals and dealing with monsters.  Each monster has a different attack pattern like Guano the Bat that attacks 2 squares diagonally.
 
 <!-- <p align="center">
 <img src="./../images/this-is-you.png" width="270" height="399" alt="Image depicting player in the board"/>
