@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /press-kit
-title: Press Kit
+title: ""
 ---
 
 ## Developer

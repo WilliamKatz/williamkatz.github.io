@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /about
-title: ""
+title: 
 redirect_from:
+  - /home
   - /
 ---
 
@@ -97,7 +98,7 @@ redirect_from:
 <div class="personal-project">
     <div style="flex:2">
       <h3>Shift Shaft</h3>
-Shift Shaft is a strategic match-3 roguelike that adds a mind-bending spin on a classic genre by allowing players to rotate the board. It is easy to pick up and play and difficult to master. 
+Shift Shaft is a match-3 roguelike where players can rotate the board.  Players move their character around the board by destroying rocks and rotating to change gravity.  But watch out because monsters lurk behind every corner!
 <div class="med-empty-div"></div>
 <blockquote style="color:#178585;">
    “What really blew my mind with Shift Shaft and the main thing that makes it feel unlike any other game out there is your ability to rotate the entire board at will. It sounds simple but this changes everything… This is truly a thinking person’s matching game.”
@@ -113,11 +114,27 @@ Shift Shaft is a strategic match-3 roguelike that adds a mind-bending spin on a 
 
 <br>
 
+<div class="personal-project">
+     <div style="flex:2">
+      <h3>Coffee Shop Clues</h3>
+<i>Coffee Shop Clues</i> is a cozy drink-crafting game where you play as an aspiring witch barista setting up her new cafe. You'll need to whip up custom drinks to satisfy customers, but they only provide vague hints about what they want. Will that be a steaming "Pumpkin Spice Batte" potion for sweet dreams or a "Transylvania Fog" to conjure some cheer? Combine coffee elements however you see fit to make the townspeople happy in this spooky soft opening.
+      <div class="med-empty-div"></div>
+     <a href="https://sip-up-games.itch.io/coffee-shop-clues" target="_blank"><img src="./../images/itch-io-scaled.png" style="width:130px;height:40px;"/></a>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="./../images/coffee-shop-clues-banner-sq.png" />
+     </div>
+     <div>
+   </div>
+</div>
+
+<br>
+
 
 <div class="personal-project">
      <div style="flex:2">
       <h3>Thin Ice</h3>
-      <i>Thin Ice</i> is a deckbuilder with tactical movement where players control a puffin on their mission to rid the Arctic of pollutants.  <i>Thin Ice</i> is unique because players draw from two decks and the cards are then merged into a single card in the player's hand.  Deckbuilders often overload the player with rules, keywords, and icons to memorize but in <i>Thin Ice</i> cards are simple.  The movement cards are arrows and the modifier cards are simple math operations like "+1" and "x2". 
+In the deckbuilding game <i>Thin Ice</i>, players take on the role of a puffin on a mission to clean up the Arctic. What makes this game unique is its dual-deck system - you draw cards from two separate decks, then merge them to form a single card in your hand. This innovative mechanism streamlines the typical complexity of deckbuilders. Instead of numerous keywords and icons to memorize, your cards are simple: movement cards just show arrows, while modifier cards have basic math operations like "+1" and "x2." Thin Ice offers all the strategy of a deckbuilder in a fun, accessible package.
       <div class="med-empty-div"></div>
      <a href="https://sip-up-games.itch.io/thin-ice" target="_blank"><img src="./../images/itch-io-scaled.png" style="width:130px;height:40px;"/></a>
      </div>
@@ -129,6 +146,12 @@ Shift Shaft is a strategic match-3 roguelike that adds a mind-bending spin on a 
 </div>
 
 <br>
+
+---
+
+<div class="large-empty-div">&nbsp;</div>
+
+## Game Jams
 
 <div class="personal-project">
      <div style="flex:2">

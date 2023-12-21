@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Shift Shaft"
+title: ""
 permalink: /shift-shaft/
 release-date: TBD
 ---
