@@ -1,3 +1,10 @@
+# Portfolio
+This is a repository that contains the pages, images and videos for my game developerment portfolilo
+
+## Making Changes
+Use ```jekyll serve``` to view changs on a local server.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WilliamKatz/williamkatz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
