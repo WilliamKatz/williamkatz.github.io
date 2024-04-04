@@ -47,7 +47,7 @@ redirect_from:
           <img src="./../images/headshot-logo.png" />
      </div>
      <div style="flex:2;">
-      I am interested in building meaningful games that help players express themselves and connect with the world around them. This portfolio showcases my ability to manage and ship personal projects, collaborate effectively with teammates at commercial studios, and my general curiosity in game design. 
+      I am interested in building meaningful games that help players express themselves and connect with the world around them. This portfolio showcases my ability to manage and ship personal projects, collaborate effectively with teammates at commercial studios, and my passion for game development. 
      </div>
 </div>
 
@@ -58,6 +58,22 @@ redirect_from:
 <div class="large-empty-div">&nbsp;</div>
 
 ## Professional Experience 
+
+### Fire Opal Media
+
+<div style="display:flex; align-items: center;">
+     <div style="flex:2">
+
+<b>Unity Software Engineer, December 2023 - Present</b>
+<div class="small-empty-div"></div>
+At Fire Opal Media, my responsibilities revolve around video poker variants. I build prototypes to test out new gameplay ideas and actively participate in design discussions for upcoming projects. One key focus has been developing front-end features that enable different gameplay modes tailored to each variant. On the back-end side, I've updated APIs to incorporate new ruleset capabilities while ensuring backward compatibility is maintained across all our existing poker variants. In addition to these implementation tasks, I'm also working on an unannounced project that explores novel concepts in the video poker space.
+</div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="./../images/JokerLogo.png" />
+     </div>
+</div>
+<br>
+
 
 ### Good Luck Games
 
@@ -88,6 +104,19 @@ redirect_from:
 </div>
 
 <br>
+
+### Mobile Software Engineer
+
+<div style="display:flex; align-items: center;">
+     <div style="flex:2">
+      <b>Mobile Software Engineer, March 2016 - May 2021</b>
+      <div class="small-empty-div"></div>
+        With over 5 years of experience building client and backend features for companies like Amazon and Best Buy, I bring a senior perspective on code architecture to promote robust sytems and maintainability. I've led small engineering teams and spearheaded successful initiatives such as Amazon Photos In-App Purchases, which resulted in over 200,000 subscriptions within the first 6 months of launch. My expertise lies in crafting well-engineered solutions that balance technical excellence with business goals.
+     </div>
+</div>
+
+<br>
+
 
 ---
 
@@ -151,6 +180,20 @@ In the deckbuilding game <i>Thin Ice</i>, players take on the role of a puffin o
 
 <div class="large-empty-div">&nbsp;</div>
 
+## Graphics Programming
+I have a passion for animation and VFX and have built out systems to support 
+dynamic targeting projectiles, particle systems, and overall cool-looking effects.
+
+### Coffee Cup Effect
+I combined two shaders to get a coffee cup effect in Coffee Shop Clues. [Learn more](./VFX-coffee-cup.md).
+
+### Swirl Effect
+I built a swirl effect to entice players to see and pick-up items. [Learn more](./swirl-effect.md).
+
+<div class="large-empty-div">&nbsp;</div>
+---
+
+<div class="large-empty-div">&nbsp;</div>
 ## Game Jams
 
 <div class="personal-project">
